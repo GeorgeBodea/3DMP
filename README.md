@@ -7,3 +7,6 @@
   - Contains 4 figures modeled following specific design provided by our professor.
 <p> Homework 3 <p>
   - Contains the chess pieces including the board.
+<p> Homework 4 <p>
+  - Contains the Scotch Yoke Mechanism. <br/>
+  - Contains the scene with the modified column. <br/>
