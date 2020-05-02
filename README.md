@@ -12,3 +12,5 @@
   - Contains the scene with the modified column. <br/>
 <p> Homework 5 <p>
   - Contains mechanic model C. <br/> 
+<p> Homework 6 <p>
+  -Contains sketches for front and side view.
